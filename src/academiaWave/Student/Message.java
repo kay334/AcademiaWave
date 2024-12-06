@@ -19,7 +19,7 @@ import javax.swing.JTextArea;
 import javax.swing.ScrollPaneConstants;
 
 import academiaWave.DBConnection;
-import javasemesterproject.Student.StudentLogin;
+
 
 public class Message extends JFrame implements ActionListener{
     JTextArea Message_Text_Area;
